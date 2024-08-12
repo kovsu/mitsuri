@@ -1,16 +1,13 @@
-# mitsuri README
+# Mitsuri Kanroji
 
-## Working with Markdown
+[![marketplace](https://img.shields.io/visual-studio-marketplace/v/KonvSuu.mitsuri-theme)](https://marketplace.visualstudio.com/items?itemName=KonvSuu.mitsuri-theme)
+[![marketplace](https://img.shields.io/visual-studio-marketplace/i/KonvSuu.mitsuri-theme?label=Installs)](https://marketplace.visualstudio.com/items?itemName=KonvSuu.mitsuri-theme)
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/KonvSuu.mitsuri-theme)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+<img src="./images/banner.png" alt="Mitsuri Kanroji" />
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
 
-## For more information
+## Acknowledgements
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Originally inspired by [ui.dev](https://ui.dev) and the colors also from it.
 
-**Enjoy!**

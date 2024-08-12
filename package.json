@@ -1,8 +1,14 @@
 {
-  "name": "mitsuri",
-  "displayName": "mitsuri",
-  "description": "Mitsuri theme!",
-  "version": "0.0.1",
+  "name": "mitsuri-theme",
+  "displayName": "Mitsuri Kanroji",
+  "description": "A Mitsuri Kanroji inspired theme for Visual Studio Code",
+  "icon": "images/mitsuri.png",
+  "version": "0.1.0",
+  "publisher": "KonvSuu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kovsu/mitsuri"
+  },
   "engines": {
     "vscode": "^1.92.0"
   },
